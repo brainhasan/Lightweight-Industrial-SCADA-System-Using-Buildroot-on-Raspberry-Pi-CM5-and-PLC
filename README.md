@@ -131,6 +131,10 @@ Hasan Edrees — Sole developer responsible for Buildroot image, backend MQTT in
   
 ## Schedule Page
   https://github.com/users/brainhasan/projects/2/views/1?visibleFields=%5B%22Title%22%2C%22Assignees%22%2C%22Status%22%2C255968077%5D
+  
+## FRONTEND 
+
+https://hasanedr1.vercel.app/
 
 ## Licensing
 
